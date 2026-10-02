@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matheuscastro0
 - 👀 I’m interested in Azure
 - 🌱 I’m currently learning Azure AZ-104, Docker and kubernetes
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, you don't. :)
 
 <!---
